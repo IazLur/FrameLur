@@ -1,0 +1,11 @@
+/* NAVBAR */
+navbar				.auto:"height-px-60 color-white-2 back-black-4";
+
+navbar-element		.md:"size-md-3 pad-x-50"
+					.auto:"pull-left line-height-60 visible-* hidden-xs";
+
+/* CONTENU */
+
+block-principal		.class:"container-fluid height-100";
+
+container			.class:"container";
